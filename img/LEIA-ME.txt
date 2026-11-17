@@ -1,0 +1,4 @@
+Coloque aqui as fotos dos advogados: foto1.jpg, foto2.jpg, foto3.jpg
+Proporção ideal: retrato 4:5 (ex.: 800x1000 px), até ~200 KB cada.
+Depois, no index.html, troque o bloco [Foto 1] por:
+<img src="img/foto1.jpg" alt="Nome do advogado">
